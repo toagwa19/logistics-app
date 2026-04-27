@@ -403,7 +403,7 @@ with st.sidebar:
     ])
     st.divider()
     st.caption("Powered by 量子ソルバー")
-    st.caption("© BIPROGY Inc.")
+    st.caption("© TESTROGY Inc.")
 
 # ══════════════════════════════════════════════════════════════════════════════
 # PAGE 1 ── システム概要
