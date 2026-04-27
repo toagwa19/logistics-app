@@ -1,1 +1,15 @@
-streamlit
+amplify==1.2.1
+numpy==1.23.5
+pandas==1.5.3
+pandas_datareader==0.10.0
+plotly==6.0.0
+Pyomo==6.8.2
+streamlit>=1.35.0
+requests>=2.31.0
+pdfminer.six>=20221105
+python-docx>=1.1.0
+openpyxl>=3.1.0
+python-pptx>=0.6.23
+beautifulsoup4>=4.12.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
